@@ -1,0 +1,14 @@
+{
+  "name": "portofolio",
+  "version": "1.0.0",
+  "description": "online portfolio",
+  "main": "index.js",
+  "repository": "https://github.com/KHollobaugh/portfolio-website.git",
+  "author": "KHollobaugh",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "less": "^3.9.0",
+    "less-watch-compiler": "^1.13.0"
+  }
+}
