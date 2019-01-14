@@ -180,3 +180,12 @@ body .header .header-content a {
   color: white;
   text-decoration: none;
 }
+body .text {
+  height: 100vh;
+}
+body .content-1 {
+  display: flex;
+}
+body .content-1 p {
+  border: 5px solid #3BCCA8;
+}
