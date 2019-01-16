@@ -188,4 +188,10 @@ body .content-1 {
 }
 body .content-1 p {
   border: 5px solid #3BCCA8;
+  height: auto;
+  text-align: center;
+}
+body .content-1 img {
+  width: auto;
+  height: 300px;
 }
